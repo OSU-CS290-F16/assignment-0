@@ -5,7 +5,7 @@ Name: Riley Brandau
 
 ONID ID: 932784523
 
-Link to my CS 290 page: `CS290_PAGE_URL`
+Link to my CS 290 page: https://web.engr.oregonstate.edu/~brandaur/
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
